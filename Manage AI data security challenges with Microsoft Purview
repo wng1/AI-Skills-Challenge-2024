@@ -21,3 +21,7 @@ on data loss prevention (DLP).
 Endpoint DLP discovers and protects sensitive data on endpoint deivces, follwoing organizational data protection policies and becomes
 important endpoints, which are capabable of monitoring and controlling the flow of sensitive infromation, which helps prevent unauthorised 
 data exposures or breaches.
+
+1) Create a URL group for AI tools
+2) Restrict pasting contents into AI tools
+
