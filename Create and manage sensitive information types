@@ -1,0 +1,17 @@
+https://learn.microsoft.com/en-gb/training/modules/create-manage-sensitive-information-types/1-introduction
+
+Finding sensitive data between all the data produced in an organization requires different search
+and recognition patterns, which are called sensitive information types.
+
+Can be identified through regular expression or a function. In addition, corroborative evidence 
+such as keywords and checksums can be used to identify a sensitive information type. 
+
+Confidence level and proximity are also used in the evaluation process. 
+
+1)  Recognize the difference between built-in and custom sensitivity labels
+
+2) Configure sensitive information types with exact data match-based classification
+
+3) Implement document fingerprinting
+
+4) Create custom keyword dictionaries
