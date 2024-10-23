@@ -1,0 +1,9 @@
+https://learn.microsoft.com/en-gb/training/modules/connect-windows-hosts-to-azure-sentinel/?source=docs
+
+Connect Azure MVM to Microsoft Sentinel using the provided data connectors.
+
+You're a Security Operations Analyst working at a company that implemented Microsoft Sentinel. You must collect event log data from Windows Hosts. The hosts could be located on-premise or as a virtual machine in Azure.
+
+Your Security Operations team relies on event data created by the Sysmon tool installed on some of the Windows Hosts. You'll configure the Windows hosts to send event data to Microsoft Sentinel. You also need to ensure that the Sysmon events are available to be used in detection rules.
+
+Operational concepts such as monitoring, logging and alerting.
