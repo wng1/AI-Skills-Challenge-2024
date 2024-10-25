@@ -1,0 +1,8 @@
+https://learn.microsoft.com/en-gb/training/modules/configure-continuous-deployment-container-apps/1-introduction
+
+Azure Pipelines provides build and release services to support continuous integration and delivery of applications.
+A pipeline defines the continuous integration and deployment process for your app. It's made up of one or more stages.
+Agents are computing infrastructure with installed agent software that runs one job at a time during pipeline execution.
+Variables give you a convenient way to get key bits of data into various parts of the pipeline.
+Azure Pipelines provides build and release services to support continuous integration and delivery of your applications.
+A trigger is used to initiate the pipeline and can be configured to run upon a push to a repository, at scheduled times, or upon the completion of another build.
